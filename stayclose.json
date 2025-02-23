@@ -1,53 +1,53 @@
 {
     "instance_1": {
         "cast_1": {
-            "cast_id": "5",
+            "cast_id": 5,
             "user_id": "usr_0f4e3ddd-8490-49ab-830c-cf46dbe44435"
             },
         "cast_2": {
-            "cast_id": "4",
+            "cast_id": 4,
             "user_id": "usr_a67c604e-1252-4a58-b68a-3d26975e3bc6"
             },
         "cast_3": {
-            "cast_id": "7",
+            "cast_id": 7,
             "user_id": "usr_2305318a-d9ab-467f-b626-bfb8d3348d32"
             },
         "cast_4": {
-            "cast_id": "11",
+            "cast_id": 11,
             "user_id": "usr_34e25708-3f2c-4c33-b138-fbfae8657ddc"
             },
         "cast_5": {
-            "cast_id": "16",
+            "cast_id": 16,
             "user_id": "usr_e0a34974-7425-48e4-b698-58c69676b3ad"
             },
         "cast_6": {
-            "cast_id": "17",
+            "cast_id": 17,
             "user_id": "usr_1a310f05-978a-4e6d-8260-e5d8fc691142"
             }
     },
     "instance_2": {
         "cast_1": {
-            "cast_id": "3",
+            "cast_id": 3,
             "user_id": "usr_d961b413-f746-45a5-8924-4051e9eb8203"
             },
         "cast_2": {
-            "cast_id": "6",
+            "cast_id": 6,
             "user_id": "usr_7b20cec1-2fc9-4bfb-955a-fea98241d80a"
             },
         "cast_3": {
-            "cast_id": "8",
+            "cast_id": 8,
             "user_id": "usr_de48c00e-00a3-425d-8803-4584264283c2"
             },
         "cast_4": {
-            "cast_id": "19",
+            "cast_id": 19,
             "user_id": "usr_aa773987-8858-46f8-aebe-8ab315e9217d"
             },
         "cast_5": {
-            "cast_id": "20",
+            "cast_id": 20,
             "user_id": "usr_eb63a5c6-39ee-4342-96ad-ba0c43c4cefe"
             },
         "cast_6": {
-            "cast_id": "21",
+            "cast_id": 21,
             "user_id": "usr_7ca7d5f1-7a1b-4f6e-8691-afd48cf41a84"
             }
     }
